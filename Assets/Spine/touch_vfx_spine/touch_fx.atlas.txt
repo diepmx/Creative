@@ -1,0 +1,27 @@
+
+touch_fx.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 235, 27
+  size: 206, 206
+  orig: 210, 210
+  offset: 2, 2
+  index: -1
+particular
+  rotate: false
+  xy: 443, 44
+  size: 189, 189
+  orig: 197, 197
+  offset: 4, 4
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 231, 231
+  orig: 257, 257
+  offset: 13, 13
+  index: -1
